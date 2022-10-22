@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable-v24/bgr_btn_cau_Dung_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable-v24/bgr_btn_cau_dung_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable-v24/bgr_green_btn_cau_chon_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable-v24/bgr_green_btn_cau_dung30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable/bgr_blue_btn_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable/bgr_btn_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable/bgr_orange_btn_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/drawable/bgr_violet_btn_30dp.xml" value="0.111" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/layout/activity_lever.xml" value="0.1403985507246377" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/layout/activity_main2.xml" value="0.13333333333333333" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/layout/activity_play_games.xml" value="0.22" />
+        <entry key="..\:/Adr/ailatrieuphu2/app/src/main/res/layout/activity_tro_giup_khan_gia.xml" value="0.1403985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
